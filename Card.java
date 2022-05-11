@@ -16,5 +16,5 @@ public interface Card{
 
   // Returns the possible Suites for the card
   public String[] getSuits();
-  
+  //jgfjuygiyk
 }
