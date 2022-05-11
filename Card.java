@@ -4,6 +4,7 @@ public interface Card{
 
   // Gets a card based on a seed number
   public Card getByNumber(int seed);
+  //hello world
 
   // Gets the index value from the list of possible suites
   public int getSuiteValue();
